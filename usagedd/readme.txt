@@ -2,7 +2,7 @@
 Contributors: DionDesigns
 Tags: memory,MySQL,CPU,resource,usage,monitor
 Requires at least: 3.0
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 5.4
 Stable tag: trunk
 
